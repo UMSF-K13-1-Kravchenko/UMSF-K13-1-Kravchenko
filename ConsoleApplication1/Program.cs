@@ -10,8 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("My nama is Vlad");
-            Console.WriteLine("This is my project to GitHub");
+            Console.WriteLine("My nama is Vlad1");
+            Console.WriteLine("This is my project to GitHub!");
             Console.ReadLine();
         }
     }
